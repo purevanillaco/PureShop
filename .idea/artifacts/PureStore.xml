@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PureStore">
+    <output-path>$PROJECT_DIR$/out/artifacts/PureStore</output-path>
+    <root id="archive" name="PureStore.jar">
+      <element id="module-output" name="PureShop" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/ovh/quiquelhappy/mcplugins/pureshop/config.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/ovh/quiquelhappy/mcplugins/pureshop/plugin.yml" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/ovh/quiquelhappy/mcplugins/pureshop/TitleAPI-1.7.7.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
